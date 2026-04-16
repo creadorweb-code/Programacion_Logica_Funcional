@@ -21,7 +21,7 @@ while contador <=5:  #valor que
 
     while True:
         print(contador)
-        contador = 0
+        contador = 1
         if contador == 5:
             break           # Sale del bucle
 
@@ -72,6 +72,8 @@ while numero <0:
         print("Lo que introduces debe ser un número")
 
 print(f"El número que introdujiste es {numero}")
+
+#gracias
 
 
 
